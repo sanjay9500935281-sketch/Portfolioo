@@ -1,0 +1,33 @@
+HEADLINE
+ECE Student | PCB & Circuit Design | Embedded Systems | LIDAR & AI Projects | Open to Internships
+
+ABOUT
+I'm an Electronics and Communication Engineering student with a diploma in ECE (First Class Distinction), now pursuing my B.E. at V.S.B College of Engineering Technical Campus, Coimbatore.
+
+I enjoy working on embedded systems, digital electronics and communication systems, and I program in C and Java. I've built a LIDAR-based self-driving car concept for electric vehicles and an AI-powered hybrid glucose monitoring system.
+
+I've done internships at Bosch Rexroth, Swevelect and Tech Vedhu, and I'm always learning, from PCB design and soldering to frontend development.
+
+I'm looking for opportunities to apply what I've learned in a challenging engineering environment.
+
+EXPERIENCE (Internships)
+- Bosch Rexroth: Exposure to industrial automation and manufacturing practices.
+- Swevelect: Learned electronic component engineering and circuit design basics.
+- Tech Vedhu: Practical training in emerging technologies and technical project execution.
+
+PROJECTS
+- LIDAR-Based Self-Driving Car in Electric Vehicle: Autonomous navigation using LIDAR for obstacle detection and avoidance, with dynamic mapping and safe route planning.
+- AI-Powered Hybrid Glucose Monitoring System: Concept combining AI and sensor-based glucose tracking for real-time analysis and better accuracy.
+
+EDUCATION
+- B.E. Electronics and Communication Engineering, V.S.B College of Engineering Technical Campus (2025 - 2028)
+- Diploma in ECE, Nachimuthu Polytechnic College (2022 - 2025)
+
+SKILLS
+PCB Design, Circuit Design, Embedded Systems, C, Java, Soldering, Frontend Development, Problem Solving, MS Office
+
+LICENSES & CERTIFICATIONS
+Technobuzz 2K26, Analog IC Design Using Cadence EDA Tool, Design of RF Component for Wireless Communication
+
+HONORS & AWARDS
+Dr. Pradeep P. Thevannoor Hackathon 2024 (SSET), Fiesta (KPR College)
